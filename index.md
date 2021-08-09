@@ -21,5 +21,7 @@ _API Keys not included_
 
 #### [All Personal Projects](https://github.com/sodo90/Python/tree/main/Personal%20projects)
 ##### - [Customer Relationship Management](https://github.com/sodo90/Python/tree/main/Personal%20projects/CRM%20-%20tool)
-##### - [Discord D&D Bot](https://github.com/sodo90/Python/tree/main/Personal%20projects/Discord%20bot)
+![Image](https://raw.githubusercontent.com/sodo90/Python/main/Personal%20projects/CRM%20-%20tool/Capture.PNG)
 ##### - [Inventory Management](https://github.com/sodo90/Python/tree/main/Personal%20projects/IMS%20-%20tool)
+![Image](https://raw.githubusercontent.com/sodo90/Python/main/Personal%20projects/IMS%20-%20tool/Capture.PNG)
+##### - [Discord D&D Bot](https://github.com/sodo90/Python/tree/main/Personal%20projects/Discord%20bot)
