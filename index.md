@@ -14,7 +14,7 @@ _Some projects may not function without an API key. Keys are not included in fil
 ##### - [To-do Lists](https://github.com/sodo90/Python/blob/main/Simple%20Schoolwork/making_lists_cody_partee.py)
 ##### - [Miles to Kilometers](https://github.com/sodo90/Python/blob/main/Simple%20Schoolwork/milestokm.py)
 ##### - [Car Garage](https://github.com/sodo90/Python/blob/main/Simple%20Schoolwork/garage.py)
-##### - [Write and Read to .txt](https://github.com/sodo90/Python/blob/main/Simple%20Schoolwork/write_2_txt_edited.py)
+##### - [Write and Read to\from .txt](https://github.com/sodo90/Python/blob/main/Simple%20Schoolwork/write_2_txt_edited.py)
 
 ### Personal Projects
 _API Keys not included_
