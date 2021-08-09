@@ -16,7 +16,9 @@ _Some projects may not function without an API key. Keys are not included in fil
 ##### - [Car Garage](https://github.com/sodo90/Python/blob/main/Simple%20Schoolwork/garage.py)
 ##### - [Write and Read to\from .txt](https://github.com/sodo90/Python/blob/main/Simple%20Schoolwork/write_2_txt_edited.py)
 
+
 ### Personal Projects
+
 _API Keys not included_
 
 #### [All Personal Projects](https://github.com/sodo90/Python/tree/main/Personal%20projects)
