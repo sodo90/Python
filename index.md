@@ -4,4 +4,4 @@ This page is for projects I have worked on during my journey of mastering the Py
 
 ### Class Work
 
-(https://github.com/sodo90/Python/tree/main/Simple%20Schoolwork)
+[Projects](https://github.com/sodo90/Python/tree/main/Simple%20Schoolwork)
